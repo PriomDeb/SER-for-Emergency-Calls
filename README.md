@@ -14,20 +14,10 @@ Paper Link: https://ieeexplore.ieee.org/document/10440971
 
 #### Cite <a href="https://github.com/PriomDeb"> <img src="https://media1.tenor.com/m/uZc5z7DXp_IAAAAC/tom-and-jerry-thanks.gif" alt="python" width="" height="40"> </a>
 
-| Styles     | Citation                                                                                                                                                                                                                                                                                                 |
-| :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Plain Text | P. Deb, H. Mahrin and A. R. Bhuiyan, "Enhancing Emergency Response Through Speech Emotion Recognition: A Machine Learning Approach," _2023 26th International Conference on Computer and Information Technology (ICCIT)_, Cox's Bazar, Bangladesh, 2023, pp. 1-5, doi: 10.1109/ICCIT60459.2023.10440971. |
-| BibTex     | @INPROCEEDINGS{10440971, <br>                                                                                                                                                                                                                                                                            |
-
-author={Deb, Priom and Mahrin, Habiba and Bhuiyan, Asibur Rahman}, <br>
-booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)}, <br>
-title={Enhancing Emergency Response Through Speech Emotion Recognition: A Machine Learning Approach}, <br>
-year={2023},<br>
-volume={},<br>
-number={},<br>
-pages={1-5},<br>
-keywords={Computers;Training;Emotion recognition;Speech recognition;Speech enhancement;Emergency services;Testing;Speech Emotion Recognition;Emergency Call;Machine Learning Models;Emotion Classification;Feature Extraction;Human-Computer Interaction},
-doi={10.1109/ICCIT60459.2023.10440971}} |
+| Styles     | Citation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Plain Text | P. Deb, H. Mahrin and A. R. Bhuiyan, "Enhancing Emergency Response Through Speech Emotion Recognition: A Machine Learning Approach," _2023 26th International Conference on Computer and Information Technology (ICCIT)_, Cox's Bazar, Bangladesh, 2023, pp. 1-5, doi: 10.1109/ICCIT60459.2023.10440971.                                                                                                                                                                                                                                                                                                                                                                                    |
+| BibTex     | @INPROCEEDINGS{10440971, <br> author={Deb, Priom and Mahrin, Habiba and Bhuiyan, Asibur Rahman}, <br>booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)}, <br> title={Enhancing Emergency Response Through Speech Emotion Recognition: A Machine Learning Approach}, <br> year={2023},<br> volume={},<br> number={},<br> pages={1-5},<br> keywords={Computers;Training;Emotion recognition;Speech recognition;Speech enhancement;Emergency services;Testing;Speech Emotion Recognition;Emergency Call;Machine Learning Models;Emotion Classification;Feature Extraction;Human-Computer Interaction}, <br> doi={10.1109/ICCIT60459.2023.10440971}} |
 
 # Languages and Tools
 
